@@ -3,3 +3,5 @@ def dire_bonjour(nom):
 
 if __name__ == "__main__":
     print(dire_bonjour("Jean"))
+
+print("Nouvelle fonctionnalité ajoutée")
